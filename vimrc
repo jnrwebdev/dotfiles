@@ -1,4 +1,3 @@
+execute pathogen#infect()
 syntax on
-colorscheme desert
-set guifont=Courier:h15
-set number
+filetype plugin indent on
