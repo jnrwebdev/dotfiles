@@ -23,5 +23,6 @@ noremap   <Right>  <NOP>
 
 " Enabling Solarized color scheme
 syntax enable
-set background=dark
 colorscheme solarized
+set background=dark
+set t_Co=16
