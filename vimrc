@@ -20,3 +20,8 @@ noremap   <Up>     <NOP>
 noremap   <Down>   <NOP>
 noremap   <Left>   <NOP>
 noremap   <Right>  <NOP>
+
+" Enabling Solarized color scheme
+syntax enable
+set background=dark
+colorscheme solarized
