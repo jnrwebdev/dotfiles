@@ -1,6 +1,8 @@
 call pathogen#infect()
 
 syntax on
+
+" Sets line numbers relative to cursor position
 set relativenumber
 
 " Setting up indentation for Python
