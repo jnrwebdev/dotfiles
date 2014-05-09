@@ -26,3 +26,6 @@ syntax enable
 colorscheme solarized
 set background=dark
 set t_Co=16
+
+" Enabling Airline status bar to always appear
+set laststatus=2
