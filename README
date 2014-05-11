@@ -17,6 +17,7 @@ Install to another machine
 	cd ~
 	git clone http://github.com/jnrwebdev/dotfiles.git ~/.vim
 	ln -s ~/.vim/vimrc ~/.vimrc
+        ln -s ~/.vim/config ~/.config/terminator/config
 	cd ~/.vim
 	git submodule init
 	git submodule update
